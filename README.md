@@ -19,4 +19,6 @@ to launch the teleop node run the cmd
 roslaunch differential_drive_robot_control teleop.launch
 ```
 
+Video recording is also present in the same git 
+
 --- By SGP
